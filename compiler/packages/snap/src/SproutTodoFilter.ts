@@ -378,6 +378,7 @@ const skipFilter = new Set([
   'ssa-shadowing',
   'template-literal',
   'multi-arrow-expr-export-default-gating-test',
+  'valid-useMemo-reassignment-with-array-access',
 
   // works, but appears differently when printing
   // due to optional function argument
